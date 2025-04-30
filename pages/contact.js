@@ -7,7 +7,7 @@ export default function Contact() {
     }}>
       <h1>Contact GnomeHaus</h1>
       <p>
-        Email: <a href="mailto:justin@gnome-haus.com" style={{ color: 'darkgreen' }}>
+        Email: <a href="mailto:justin@gnome-haus.com" style={{ color: "#f9f7f3"}}>
           justin@gnome-haus.com
         </a>
       </p>
