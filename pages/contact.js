@@ -3,11 +3,13 @@ export default function Contact() {
     <div style={{
       fontFamily: "serif",
       padding: "2rem",
-      color: "#000" // 👈 makes all text black
+      background: "#ffffff",  // 👈 this sets the background to white
+      minHeight: "100vh",
+      color: "#000"
     }}>
       <h1>Contact GnomeHaus</h1>
       <p>
-        Email: <a href="mailto:justin@gnome-haus.com" style={{ color: "#f9f7f3"}}>
+        Email: <a href="mailto:justin@gnome-haus.com" style={{ color: 'darkgreen'}}>
           justin@gnome-haus.com
         </a>
       </p>
